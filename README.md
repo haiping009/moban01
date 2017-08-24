@@ -18,7 +18,7 @@
 
 
 
-知道更多 [GitHub 百度一下](https://www.baidu.com/).
+知道更多 [百度一下](https://www.baidu.com/).
 
 ### 台湾游
 
@@ -32,4 +32,5 @@
 
 谁谓河广？一苇杭之。谁谓宋远？跂予望之。
 谁谓河广？曾不容刀。谁谓宋远？曾不崇朝。 
-[百度一下](https://www.baidu.com/) or [桃夭](https://www.baidu.com/) ~~
+[百度一下](https://www.baidu.com/) 
+[桃夭](https://www.baidu.com/) ~~
