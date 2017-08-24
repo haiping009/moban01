@@ -1,6 +1,8 @@
 ## Welcome to GitHub Pages！！！！
 
-You can use the [editor on GitHub](https://github.com/haiping009/moban01/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+朕幼清以廉洁兮，身服义而未沫。
+主此盛德兮，牵于俗而芜秽
+[百度一下](https://www.baidu.com/) 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
